@@ -11790,11 +11790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mansing\\TestProjects\\InfraAsCode\\OurWebApp\\OurWebApp\\OurWebApp.csproj",
+      "projectUniqueName": "C:\\Mansing\\TestProjects\\InfraAsCode\\OurWebApp\\OurWebApp.csproj",
       "projectName": "OurWebApp",
-      "projectPath": "C:\\Mansing\\TestProjects\\InfraAsCode\\OurWebApp\\OurWebApp\\OurWebApp.csproj",
+      "projectPath": "C:\\Mansing\\TestProjects\\InfraAsCode\\OurWebApp\\OurWebApp.csproj",
       "packagesPath": "C:\\Users\\nomanpat\\.nuget\\packages\\",
-      "outputPath": "C:\\Mansing\\TestProjects\\InfraAsCode\\OurWebApp\\OurWebApp\\obj\\",
+      "outputPath": "C:\\Mansing\\TestProjects\\InfraAsCode\\OurWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
